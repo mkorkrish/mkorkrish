@@ -1,7 +1,7 @@
 **Hey I'm Mk 👋🏾**
 
-I'm a undergrad at UT Dallas, with a passion for research and development of clinical neural interfaces.
-**-** Checkout my [website](https://mkmaharana.com/) to learn more about me!
+I'm an undergrad at UT Dallas, with a passion for research and development of clinical neural interfaces.
+- Checkout my [website](https://mkmaharana.com/) to learn more about me!
 
 # 📦 Toolbox
 
@@ -11,9 +11,9 @@ I'm a undergrad at UT Dallas, with a passion for research and development of cli
 
 # ✨ Fun Facts
 
-**-** I've played and taught the guitar for the past 7 years.
-**-** I've wanted to be a biomedical engineer since I was 12.
-**-** I love playing pickleball, volleyball, and soccer.
+- I've played and taught the guitar for the past 7 years.
+- I've wanted to be a biomedical engineer since I was 12.
+- I love playing pickleball, volleyball, and soccer.
 
 # 📫 Contact
 
