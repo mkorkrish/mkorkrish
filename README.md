@@ -5,9 +5,9 @@ I'm an undergrad at UT Dallas, with a passion for the research and development o
 
 # 📦 Toolbox
 
-**Languages**: `Python` `MATLAB` `C/C++`  `Java`
-**Software**: `SOLIDWORKS` `Inventor` `AutoCAD` 
-**Others**: `Javascript` `HTML` `CSS`
+**Languages** : `Python` `MATLAB` `C/C++`  `Java`
+**Software** : `SOLIDWORKS` `Inventor` `AutoCAD` 
+**Others** : `Javascript` `HTML` `CSS`
 
 # ✨ Fun Facts
 
