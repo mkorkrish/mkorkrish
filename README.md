@@ -5,7 +5,7 @@ I'm a undergraduate at The University of Texas at Dallas, where I'm majoring in 
 
 📦 Toolbox
 Laboratory Analysis: Neural Signals | Electrophysiology | Electrochemistry | Electroencephalogram (EEG) | Urodynamics
-Languages: {Python} MATLAB C++ C Java
+Languages: 'Python' MATLAB C++ C Java
 Software: SOLIDWORKS Inventor AutoCAD 
 
 ✨ Fun Facts
