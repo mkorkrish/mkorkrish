@@ -6,8 +6,14 @@ I'm an undergrad at UT Dallas, with a passion for the research and development o
 # 📦 Toolbox
 
 **Languages** : `Python` `MATLAB` `C/C++`  `Java`
+
 **Software** : `SOLIDWORKS` `Inventor` `AutoCAD` 
-**Others** : `Javascript` `HTML` `CSS`
+
+**Web-Development** : `Javascript` `HTML` `CSS`
+
+**Laboratory** : `Vivo/Vitro` `Neural Recording/Stimulation` `Biochemistry` `Electrochemistry` `Electrophysiology` `Electroencephalogram (EEG)` `Sutures` `Histology` `Urodynamics` `Animal Models` `Drawing/Making Injectable Solutions` `Microfabrication` `Intraperitoneal Injections` `Microscopy` `Soldering`
+
+**Others** : `Visual3D` `Vicon Nexus` `LEGSys` `BioWare` `EmotivPRO` `EmotivBCI`
 
 # ✨ Fun Facts
 
