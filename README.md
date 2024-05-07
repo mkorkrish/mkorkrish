@@ -1,6 +1,6 @@
 **Hey I'm Mk 👋🏾**
 
-I'm an undergrad at UT Dallas, with a passion for research and development of clinical neural interfaces.
+I'm an undergrad at UT Dallas, with a passion for the research and development of clinically approved neural interfaces.
 - Checkout my [website](https://mkmaharana.com/) to learn more about me!
 
 # 📦 Toolbox
