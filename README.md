@@ -17,7 +17,7 @@ I'm an undergrad at UT Dallas, with a passion for the research and development o
 
 # ✨ Fun Facts
 
-- I've played and taught the guitar for the past 7 years.
+- I've played the guitar for the past 7 years.
 - I've wanted to be a biomedical engineer since I was 12.
 - I love playing pickleball, volleyball, and soccer.
 
