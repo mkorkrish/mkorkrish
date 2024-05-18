@@ -14,7 +14,7 @@ I'm an undergrad at UT Dallas, with a passion for the research and development o
 
 **Web-Development** : `Javascript` `HTML` `CSS`
 
-**Project Management**: `Waterfall` `Agile` `Scrum`
+**Project Management**: `Waterfall` `Agile` `Scrum` `Six Sigma`
 
 **Laboratory** : `Vivo/Vitro` `Neural Recording/Stimulation` `Biochemistry` `Electrochemistry` `Electrophysiology` `Electroencephalogram(EEG)` `Sutures` `Histology` `Urodynamics` `Animal Models` `Drawing/Making Injectable Solutions` `Microfabrication` `Intraperitoneal Injections` `Microscopy` `Soldering`
 
