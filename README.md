@@ -3,9 +3,8 @@
 I'm an undergrad at UT Dallas, with a passion for the research and development of clinically approved neural interfaces.
 - Checkout my [website](https://mkmaharana.com/) to learn more about me!
 
-# 📄 Certifications
-`IBM Data Science` `Google Data Analytics` `IBM Full Stack Developer` `IBM Full-Stack Javascript Developer` `Google UX Design` `Google Project Management` `IBM Data Engineering`
-
+# 📄 Professional Certifications
+`Google Project Management` 
 # 📦 Toolbox
 
 **Languages** : `Python` `MATLAB` `C/C++`  `Java`
