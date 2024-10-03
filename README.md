@@ -4,7 +4,7 @@ I'm an undergrad at UT Dallas, with a passion for the research and development o
 - Checkout my [website](https://mkmaharana.com/) to learn more about me!
 
 # 📄 Professional Certifications
-`Google Project Management` 
+`Google Project Management` `Autodesk Inventor Certified User`
 # 📦 Toolbox
 
 **Languages** : `Python` `MATLAB` `C/C++`  `Java`
